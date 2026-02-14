@@ -20,6 +20,8 @@ Please note that the Application utilizes third-party services that have their o
 *   [AppLovin](https://www.applovin.com/terms/)
 *   [Mapbox](https://www.mapbox.com/legal/tos)
 *   [Supabase](https://supabase.com/terms)
+*   [OpenStreetMap](https://www.openstreetmap.org/copyright)
+*   [CARTO](https://carto.com/legal)
 
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
@@ -31,6 +33,10 @@ Similarly, the Service Provider cannot always assume responsibility for your usa
 In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+
+**Map Data Usage and Attribution**
+
+This app uses OpenStreetMap data (© OpenStreetMap contributors) under the ODbL license, with basemap services provided by CARTO.You must preserve the "© OpenStreetMap, © CARTO" watermark when sharing or using map images from this app.Map information is for reference only. We do not guarantee the accuracy or completeness of any geographic data and are not liable for any actions taken based on this information.
 
 **Game Save Data and Data Loss**
 

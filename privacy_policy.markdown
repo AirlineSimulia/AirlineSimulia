@@ -35,12 +35,17 @@ Please note that the Application utilizes third-party services that have their o
 *   [AppLovin](https://www.applovin.com/privacy/)
 *   [Mapbox](https://www.mapbox.com/legal/privacy)
 *   [Supabase](https://supabase.com/privacy)
+*   [OpenStreetMap](https://osmfoundation.org/wiki/Privacy_Policy)
+*   [CARTO](https://carto.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
 *   as required by law, such as to comply with a subpoena, or similar legal process;
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+**Map Services and Data Usage**
+This Application utilizes CARTO basemap services and OpenStreetMap data (© OpenStreetMap contributors, under the ODbL license) to provide map browsing features, where technical data such as your IP address and Device Type (User-Agent) are transmitted to service providers solely for tile retrieval; please note that the Application does not access, collect, or monitor your real-time GPS location, and any "Positioning" or "Center" features are pre-set functional shortcuts navigating to static geographical coordinates triggered entirely by manual user interaction, while map tiles may be temporarily cached on your local storage exclusively to optimize rendering performance and minimize data consumption without being transmitted to any external servers.
 
 **What are my opt-out rights?**
 
